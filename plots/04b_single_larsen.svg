@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs>
+</defs>
+<text x="450.0" y="30.0" font-size="20" text-anchor="middle" fill="#0b0b0b" font-weight="bold">Ларсен, алгоритм 1, Agg = max: выходы правил и итоговое B′</text>
+<text x="450.0" y="56.0" font-size="20" text-anchor="middle" fill="#0b0b0b" font-weight="bold">(вход «примерно 45% от цели»)</text>
+<line x1="84.0" y1="522.0" x2="880.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="527.5" font-size="16" text-anchor="end" fill="#52514e">0</text>
+<line x1="84.0" y1="423.9" x2="880.0" y2="423.9" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="429.4" font-size="16" text-anchor="end" fill="#52514e">0,25</text>
+<line x1="84.0" y1="325.8" x2="880.0" y2="325.8" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="331.3" font-size="16" text-anchor="end" fill="#52514e">0,5</text>
+<line x1="84.0" y1="227.7" x2="880.0" y2="227.7" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="233.2" font-size="16" text-anchor="end" fill="#52514e">0,75</text>
+<line x1="84.0" y1="129.6" x2="880.0" y2="129.6" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="135.1" font-size="16" text-anchor="end" fill="#52514e">1</text>
+<line x1="84.0" y1="110.0" x2="84.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="84.0" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">0</text>
+<line x1="150.3" y1="110.0" x2="150.3" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="150.3" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">0,5</text>
+<line x1="216.7" y1="110.0" x2="216.7" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="216.7" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<line x1="283.0" y1="110.0" x2="283.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="283.0" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">1,5</text>
+<line x1="349.3" y1="110.0" x2="349.3" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="349.3" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<line x1="415.7" y1="110.0" x2="415.7" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="415.7" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">2,5</text>
+<line x1="482.0" y1="110.0" x2="482.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="482.0" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<line x1="548.3" y1="110.0" x2="548.3" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="548.3" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">3,5</text>
+<line x1="614.7" y1="110.0" x2="614.7" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="614.7" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">4</text>
+<line x1="681.0" y1="110.0" x2="681.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="681.0" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">4,5</text>
+<line x1="747.3" y1="110.0" x2="747.3" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="747.3" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">5</text>
+<line x1="813.7" y1="110.0" x2="813.7" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="813.7" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">5,5</text>
+<line x1="880.0" y1="110.0" x2="880.0" y2="522.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="880.0" y="542.0" font-size="16" text-anchor="middle" fill="#52514e">6</text>
+<line x1="84.0" y1="522.0" x2="880.0" y2="522.0" stroke="#898781" stroke-width="1.0"/>
+<line x1="84.0" y1="110.0" x2="84.0" y2="522.0" stroke="#898781" stroke-width="1.0"/>
+<clipPath id="clip0"><rect x="77.0" y="103.0" width="810.0" height="426.0"/></clipPath>
+<g clip-path="url(#clip0)">
+<path d=" M84.0 522.0 L150.3 522.0 L216.7 522.0 L283.0 522.0 L349.3 522.0 L415.7 423.9 L482.0 325.8 L548.3 325.8 L614.7 227.7 L681.0 325.8 L747.3 423.9 L813.7 423.9 L880.0 522.0" fill="none" stroke="#eb6834" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round" opacity="0.5"/>
+<rect x="77.2" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="143.5" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="209.9" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="276.2" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="342.5" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="408.9" y="417.1" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="475.2" y="319.0" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="541.5" y="319.0" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="607.9" y="220.9" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="674.2" y="319.0" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="740.5" y="417.1" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="806.9" y="417.1" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<rect x="873.2" y="515.2" width="13.6" height="13.6" fill="#eb6834" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+<path d=" M84.0 522.0 L150.3 522.0 L216.7 522.0 L283.0 522.0 L349.3 522.0 L415.7 522.0 L482.0 522.0 L548.3 522.0 L614.7 522.0 L681.0 423.9 L747.3 423.9 L813.7 423.9 L880.0 522.0" fill="none" stroke="#52514e" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5,3"/>
+<path d=" M84.0 522.0 L150.3 522.0 L216.7 522.0 L283.0 522.0 L349.3 522.0 L415.7 522.0 L482.0 522.0 L548.3 325.8 L614.7 227.7 L681.0 325.8 L747.3 522.0 L813.7 522.0 L880.0 522.0" fill="none" stroke="#52514e" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="2,3"/>
+<path d=" M84.0 522.0 L150.3 522.0 L216.7 522.0 L283.0 522.0 L349.3 522.0 L415.7 423.9 L482.0 325.8 L548.3 423.9 L614.7 522.0 L681.0 522.0 L747.3 522.0 L813.7 522.0 L880.0 522.0" fill="none" stroke="#52514e" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9,3,2,3"/>
+</g>
+<line x1="603.6" y1="90.0" x2="603.6" y2="522.0" stroke="#eb6834" stroke-width="1.8" stroke-dasharray="6,4"/>
+<rect x="607.6" y="90.0" width="93.3" height="21" fill="#ffffff" fill-opacity="0.85"/>
+<line x1="607.6" y1="90.0" x2="607.6" y2="111.0" stroke="#eb6834" stroke-width="3.0"/>
+<text x="612.6" y="106.0" font-size="16" text-anchor="start" fill="#0b0b0b">y* = 3,92</text>
+<text x="482.0" y="567.0" font-size="16" text-anchor="middle" fill="#52514e">Приоритет доработки сценария, баллы</text>
+<text x="22.0" y="316.0" font-size="16" text-anchor="middle" fill="#52514e" transform="rotate(-90 22.0 316.0)">Степень принадлежности μ</text>
+<line x1="84.0" y1="593.5" x2="114.0" y2="593.5" stroke="#eb6834" stroke-width="3.5"/>
+<rect x="95.0" y="589.5" width="8.0" height="8.0" fill="#eb6834" stroke="#ffffff" stroke-width="1"/>
+<text x="122.0" y="599.0" font-size="16" text-anchor="start" fill="#0b0b0b">B′ — итоговый выход (Ларсен)</text>
+<line x1="423.8" y1="593.5" x2="453.8" y2="593.5" stroke="#52514e" stroke-width="1.8" stroke-dasharray="5,3"/>
+<text x="461.8" y="599.0" font-size="16" text-anchor="start" fill="#0b0b0b">B′2 — выход R2 (α = 0,25)</text>
+<line x1="84.0" y1="617.5" x2="114.0" y2="617.5" stroke="#52514e" stroke-width="1.8" stroke-dasharray="2,3"/>
+<text x="122.0" y="623.0" font-size="16" text-anchor="start" fill="#0b0b0b">B′3 — выход R3 (α = 0,75)</text>
+<line x1="394.0" y1="617.5" x2="424.0" y2="617.5" stroke="#52514e" stroke-width="1.8" stroke-dasharray="9,3,2,3"/>
+<text x="432.0" y="623.0" font-size="16" text-anchor="start" fill="#0b0b0b">B′4 — выход R4 (α = 0,5)</text>
+</svg>

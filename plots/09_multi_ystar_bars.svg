@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs>
+</defs>
+<text x="450.0" y="30.0" font-size="20" text-anchor="middle" fill="#0b0b0b" font-weight="bold">Система с несколькими входами: y* при разных импликациях</text>
+<line x1="84.0" y1="500.0" x2="880.0" y2="500.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="505.5" font-size="16" text-anchor="end" fill="#52514e">0</text>
+<line x1="84.0" y1="433.3" x2="880.0" y2="433.3" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="438.8" font-size="16" text-anchor="end" fill="#52514e">1</text>
+<line x1="84.0" y1="366.7" x2="880.0" y2="366.7" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="372.2" font-size="16" text-anchor="end" fill="#52514e">2</text>
+<line x1="84.0" y1="300.0" x2="880.0" y2="300.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="305.5" font-size="16" text-anchor="end" fill="#52514e">3</text>
+<line x1="84.0" y1="233.3" x2="880.0" y2="233.3" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="238.8" font-size="16" text-anchor="end" fill="#52514e">4</text>
+<line x1="84.0" y1="166.7" x2="880.0" y2="166.7" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="172.2" font-size="16" text-anchor="end" fill="#52514e">5</text>
+<line x1="84.0" y1="100.0" x2="880.0" y2="100.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="105.5" font-size="16" text-anchor="end" fill="#52514e">6</text>
+<line x1="84.0" y1="500.0" x2="880.0" y2="500.0" stroke="#898781" stroke-width="1.0"/>
+<line x1="84.0" y1="60.0" x2="84.0" y2="500.0" stroke="#898781" stroke-width="1.0"/>
+<rect x="141.6" y="208.3" width="44.0" height="291.7" fill="#2a78d6"/>
+<text x="163.6" y="201.3" font-size="16" text-anchor="middle" fill="#0b0b0b">4,38</text>
+<text x="163.6" y="520.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Мамдани</text>
+<text x="163.6" y="541.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = max)</text>
+<rect x="300.8" y="200.0" width="44.0" height="300.0" fill="#eb6834"/>
+<text x="322.8" y="193.0" font-size="16" text-anchor="middle" fill="#0b0b0b">4,50</text>
+<text x="322.8" y="520.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Ларсен</text>
+<text x="322.8" y="541.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = max)</text>
+<rect x="460.0" y="291.1" width="44.0" height="208.9" fill="#1baf7a"/>
+<text x="482.0" y="284.1" font-size="16" text-anchor="middle" fill="#0b0b0b">3,13</text>
+<text x="482.0" y="520.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Лукасевич</text>
+<text x="482.0" y="541.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<text x="646.7" y="494.0" font-size="16" text-anchor="start" fill="#52514e" transform="rotate(-90 646.7 494.0)">не определён</text>
+<text x="641.2" y="520.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Гёдель</text>
+<text x="641.2" y="541.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<rect x="778.4" y="295.0" width="44.0" height="205.0" fill="#e87ba4"/>
+<text x="800.4" y="288.0" font-size="16" text-anchor="middle" fill="#0b0b0b">3,07</text>
+<text x="800.4" y="520.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Клини–Дайнс</text>
+<text x="800.4" y="541.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<clipPath id="clip0"><rect x="77.0" y="53.0" width="810.0" height="454.0"/></clipPath>
+<g clip-path="url(#clip0)">
+</g>
+<text x="22.0" y="280.0" font-size="16" text-anchor="middle" fill="#52514e" transform="rotate(-90 22.0 280.0)">y*, баллы</text>
+</svg>

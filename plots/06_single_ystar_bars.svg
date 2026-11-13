@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs>
+<pattern id="hatch1baf7a" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#1baf7a" stroke-width="3"/></pattern>
+<pattern id="hatch2a78d6" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#2a78d6" stroke-width="3"/></pattern>
+<pattern id="hatch52514e" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#52514e" stroke-width="3"/></pattern>
+<pattern id="hatche87ba4" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#e87ba4" stroke-width="3"/></pattern>
+<pattern id="hatcheb6834" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#eb6834" stroke-width="3"/></pattern>
+<pattern id="hatcheda100" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#eda100" stroke-width="3"/></pattern>
+</defs>
+<text x="450.0" y="30.0" font-size="20" text-anchor="middle" fill="#0b0b0b" font-weight="bold">y* при разных импликациях и механизмах вывода (вход «примерно</text>
+<text x="450.0" y="56.0" font-size="20" text-anchor="middle" fill="#0b0b0b" font-weight="bold">45% от цели»)</text>
+<line x1="84.0" y1="484.0" x2="880.0" y2="484.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="489.5" font-size="16" text-anchor="end" fill="#52514e">0</text>
+<line x1="84.0" y1="423.7" x2="880.0" y2="423.7" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="429.2" font-size="16" text-anchor="end" fill="#52514e">1</text>
+<line x1="84.0" y1="363.4" x2="880.0" y2="363.4" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="368.9" font-size="16" text-anchor="end" fill="#52514e">2</text>
+<line x1="84.0" y1="303.1" x2="880.0" y2="303.1" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="308.6" font-size="16" text-anchor="end" fill="#52514e">3</text>
+<line x1="84.0" y1="242.8" x2="880.0" y2="242.8" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="248.3" font-size="16" text-anchor="end" fill="#52514e">4</text>
+<line x1="84.0" y1="182.5" x2="880.0" y2="182.5" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="188.0" font-size="16" text-anchor="end" fill="#52514e">5</text>
+<line x1="84.0" y1="122.2" x2="880.0" y2="122.2" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="76.0" y="127.7" font-size="16" text-anchor="end" fill="#52514e">6</text>
+<line x1="84.0" y1="484.0" x2="880.0" y2="484.0" stroke="#898781" stroke-width="1.0"/>
+<line x1="84.0" y1="86.0" x2="84.0" y2="484.0" stroke="#898781" stroke-width="1.0"/>
+<rect x="103.3" y="254.4" width="38.2" height="229.6" fill="#2a78d6"/>
+<text x="122.4" y="247.4" font-size="16" text-anchor="middle" fill="#0b0b0b">3,81</text>
+<text x="122.4" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<rect x="144.5" y="254.4" width="38.2" height="229.6" fill="url(#hatch2a78d6)" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="163.6" y="247.4" font-size="16" text-anchor="middle" fill="#0b0b0b">3,81</text>
+<text x="163.6" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<rect x="185.7" y="254.4" width="38.2" height="229.6" fill="#2a78d6" fill-opacity="0.25" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="204.8" y="247.4" font-size="16" text-anchor="middle" fill="#0b0b0b">3,81</text>
+<text x="204.8" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<text x="163.6" y="528.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Мамдани</text>
+<text x="163.6" y="549.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = max)</text>
+<rect x="262.5" y="247.8" width="38.2" height="236.2" fill="#eb6834"/>
+<text x="281.6" y="240.8" font-size="16" text-anchor="middle" fill="#0b0b0b">3,92</text>
+<text x="281.6" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<rect x="303.7" y="247.8" width="38.2" height="236.2" fill="url(#hatcheb6834)" stroke="#eb6834" stroke-width="1.5"/>
+<text x="322.8" y="240.8" font-size="16" text-anchor="middle" fill="#0b0b0b">3,92</text>
+<text x="322.8" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<rect x="344.9" y="252.8" width="38.2" height="231.2" fill="#eb6834" fill-opacity="0.25" stroke="#eb6834" stroke-width="1.5"/>
+<text x="364.0" y="245.8" font-size="16" text-anchor="middle" fill="#0b0b0b">3,83</text>
+<text x="364.0" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<text x="322.8" y="528.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Ларсен</text>
+<text x="322.8" y="549.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = max)</text>
+<rect x="421.7" y="296.9" width="38.2" height="187.1" fill="#1baf7a"/>
+<text x="440.8" y="289.9" font-size="16" text-anchor="middle" fill="#0b0b0b">3,10</text>
+<text x="440.8" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<rect x="462.9" y="299.9" width="38.2" height="184.1" fill="url(#hatch1baf7a)" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="482.0" y="292.9" font-size="16" text-anchor="middle" fill="#0b0b0b">3,05</text>
+<text x="482.0" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<rect x="504.1" y="290.7" width="38.2" height="193.3" fill="#1baf7a" fill-opacity="0.25" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="523.2" y="283.7" font-size="16" text-anchor="middle" fill="#0b0b0b">3,21</text>
+<text x="523.2" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<text x="482.0" y="528.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Лукасевич</text>
+<text x="482.0" y="549.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<rect x="580.9" y="284.0" width="38.2" height="200.0" fill="#eda100"/>
+<text x="600.0" y="277.0" font-size="16" text-anchor="middle" fill="#0b0b0b">3,32</text>
+<text x="600.0" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<rect x="622.1" y="260.9" width="38.2" height="223.1" fill="url(#hatcheda100)" stroke="#eda100" stroke-width="1.5"/>
+<text x="641.2" y="253.9" font-size="16" text-anchor="middle" fill="#0b0b0b">3,70</text>
+<text x="641.2" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<text x="687.9" y="478.0" font-size="16" text-anchor="start" fill="#52514e" transform="rotate(-90 687.9 478.0)">не определён</text>
+<text x="682.4" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<text x="641.2" y="528.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Гёдель</text>
+<text x="641.2" y="549.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<rect x="740.1" y="300.9" width="38.2" height="183.1" fill="#e87ba4"/>
+<text x="759.2" y="293.9" font-size="16" text-anchor="middle" fill="#0b0b0b">3,04</text>
+<text x="759.2" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">1</text>
+<rect x="781.3" y="300.9" width="38.2" height="183.1" fill="url(#hatche87ba4)" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="800.4" y="293.9" font-size="16" text-anchor="middle" fill="#0b0b0b">3,04</text>
+<text x="800.4" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">2</text>
+<rect x="822.5" y="291.8" width="38.2" height="192.2" fill="#e87ba4" fill-opacity="0.25" stroke="#e87ba4" stroke-width="1.5"/>
+<text x="841.6" y="284.8" font-size="16" text-anchor="middle" fill="#0b0b0b">3,19</text>
+<text x="841.6" y="504.0" font-size="16" text-anchor="middle" fill="#52514e">3</text>
+<text x="800.4" y="528.0" font-size="16" text-anchor="middle" fill="#0b0b0b">Клини–Дайнс</text>
+<text x="800.4" y="549.0" font-size="16" text-anchor="middle" fill="#0b0b0b">(Agg = min)</text>
+<clipPath id="clip0"><rect x="77.0" y="79.0" width="810.0" height="412.0"/></clipPath>
+<g clip-path="url(#clip0)">
+</g>
+<text x="22.0" y="285.0" font-size="16" text-anchor="middle" fill="#52514e" transform="rotate(-90 22.0 285.0)">y*, баллы</text>
+<rect x="87.0" y="568.0" width="24" height="16" fill="#52514e"/>
+<text x="122.0" y="583.0" font-size="16" text-anchor="start" fill="#0b0b0b">алгоритм 1</text>
+<rect x="248.2" y="568.0" width="24" height="16" fill="url(#hatch52514e)" stroke="#52514e" stroke-width="1.5"/>
+<text x="283.2" y="583.0" font-size="16" text-anchor="start" fill="#0b0b0b">алгоритм 2</text>
+<rect x="409.4" y="568.0" width="24" height="16" fill="#52514e" fill-opacity="0.25" stroke="#52514e" stroke-width="1.5"/>
+<text x="444.4" y="583.0" font-size="16" text-anchor="start" fill="#0b0b0b">алгоритм 3</text>
+</svg>
